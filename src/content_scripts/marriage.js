@@ -1,28 +1,28 @@
 const info = {
   maleInfo: {
     name: { value: '顾东升', editor: '#xmnan', },
-    id: { value: '610102XXXXXXXXXXXX', editor: '#sfzjhmnan', },
-    degree: { value: '大学', editor: '#whcdnan', },
+    id: { value: '413026199410200018', editor: '#sfzjhmnan', },
+    degree: { value: '博士研究生', editor: '#whcdnan', },
     job: { value: '专业技术人员', editor: '#zynan', },
-    phone: { value: '155XXXXXXXX', editor: '#lxdhnan', },
+    phone: { value: '15652325066', editor: '#lxdhnan', },
   },
 
   femaleInfo: {
-    name: { value: '卢XX', editor: '#xmnv', },
-    id: { value: '42XXXXXXXXXXXXXXXX', editor: '#sfzjhmnv', },
+    name: { value: '何婉婷', editor: '#xmnv', },
+    id: { value: '340827199610305227', editor: '#sfzjhmnv', },
     degree: { value: '硕士研究生', editor: '#whcdnv', },
     job: { value: '其他从业人员', editor: '#zynv', },
-    phone: { value: '158XXXXXXXX', editor: '#lxdhnv', },
+    phone: { value: '15692409677', editor: '#lxdhnv', },
   },
 
   address: {
-    date: '2025-08-22', // 默认办理日期
+    date: '2025-12-25', // 默认办理日期
     city: '440100000000', // 默认办理城市：广州市
     // 意向办理网点列表，若优先级高的网点没有可预约时间，则依次尝试优先级低的网点
     officeList: [
       '4401040A0000', // 广州市越秀区民政局婚姻登记处
-      '4401050A0000', // 广州市海珠区民政局婚姻登记处
-      '4401060A0000', // 广州市天河区民政局婚姻登记处
+      '4401060A0000', // 广州市海珠区民政局婚姻登记处
+      '4401050A0000', // 广州市天河区民政局婚姻登记处
     ],
     // 意向办理时间列表，若优先级高的时段没有可预约时间，则依次尝试优先级低的时段
     timeList: [
