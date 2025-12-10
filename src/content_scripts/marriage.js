@@ -1,6 +1,6 @@
 const info = {
   maleInfo: {
-    name: { value: '刘XX', editor: '#xmnan', },
+    name: { value: '顾东升', editor: '#xmnan', },
     id: { value: '610102XXXXXXXXXXXX', editor: '#sfzjhmnan', },
     degree: { value: '大学', editor: '#whcdnan', },
     job: { value: '专业技术人员', editor: '#zynan', },
